@@ -4,8 +4,8 @@ const nextConfig = {
   output: 'export',
   distDir: '../public',
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
+    name: 'Sajat Kasm Registry' ,
+    description: 'Sajat Kasm Workspaces 1.17 alkalmazasok',
     icon: '/img/logo.svg',
     listUrl: 'https://szalailuca7-code.github.io/kasm-registry/',
     contactUrl: 'https://kasmweb.com/support',
